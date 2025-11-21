@@ -74,8 +74,10 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
-}
-
+        labels[0] : {"text" : [중국식 냉면은 맛있어"], "images" : [https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.10000recipe.com%2Frecipe%2F6855261%3Fsrsltid%3DAfmBOorJ5NKzgGPkWC0aCablA-ZhznsceOzEGPnivgqDW-nI08FK4Or2&psig=AOvVaw37MqdgGBHkonw5sVntMtKD&ust=1763789016162000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIjCn6HAgpEDFQAAAAAdAAAAABAE]},
+        labels[1] : {"text" : [짜장면은 맛있어"], "images" : [https://www.google.com/url?sa=i&url=https%3A%2F%2F8dogam.com%2Fproduct%2F3a4004fdb9ba468a24315e080ea480f1%3Fsrsltid%3DAfmBOoq2rjU4U-pbZqUJ9kZTqkY35JNNCZ3VCp-GbpzWrykUNT3uG9bm&psig=AOvVaw3wqQoQUBa9-TUkglxNs1Tx&ust=1763789197564000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJDTyPfAgpEDFQAAAAAdAAAAABAE]},
+        labels[2] : {"text" : [짬뽕은 맛있어"], "images" : [https://www.google.com/url?sa=i&url=https%3A%2F%2Fnoodleplanet.co.kr%2F%25ED%2595%259C%25EB%25B0%2598%25EB%258F%2584-%25ED%258F%2589%25EC%25A0%2595-5%25EB%258C%2580-%25EC%25A7%25AC%25EB%25BD%2595-%25EB%25AA%2585%25EA%25B0%2580%2F&psig=AOvVaw2UuudigU-OB2oxrN2TjADO&ust=1763789256789000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNDFtJTBgpEDFQAAAAAdAAAAABAE]},
+        labels[3] : {"text" : [탕수육은 맛있어"], "images" : [https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.10000recipe.com%2Frecipe%2F6935781%3Fsrsltid%3DAfmBOoroa9iN4MdvdKyE9FvYIVik_R5lG2r1cZaIvWrcFd1sqmbt3mj0&psig=AOvVaw3LMANzWhXBsR3einzPGYSi&ust=1763789296080000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMii0KbBgpEDFQAAAAAdAAAAABAE]},
 # ======================
 # 유틸
 # ======================
